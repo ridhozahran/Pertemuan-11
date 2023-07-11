@@ -1,0 +1,8 @@
+C:\pemrog\prak11\prak11\bin\Debug\prak11.exe.config
+C:\pemrog\prak11\prak11\bin\Debug\prak11.exe
+C:\pemrog\prak11\prak11\bin\Debug\prak11.pdb
+C:\pemrog\prak11\prak11\obj\Debug\prak11.csproj.AssemblyReference.cache
+C:\pemrog\prak11\prak11\obj\Debug\prak11.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\prak11\prak11\obj\Debug\prak11.csproj.CoreCompileInputs.cache
+C:\pemrog\prak11\prak11\obj\Debug\prak11.exe
+C:\pemrog\prak11\prak11\obj\Debug\prak11.pdb
